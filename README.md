@@ -1,2 +1,2 @@
-# COVID19_prediction
-Using Deep Neural Network to predict the percentage of COVID19 in U.S.
+# AI is the future
+This is the sample code of different machine learning algorithms
